@@ -3,7 +3,6 @@
 ## Présentation du projet
 
 **Titre** : Retail Sales Analysis
-**Niveau** : Débutant / intermédiaire
 **Base de données** : `sql_project_p1`
 **Outils** : SQL Server 2025 (Docker, Mac M2), VS Code + extension mssql
 
