@@ -286,8 +286,3 @@ Ce projet couvre les compétences SQL de base d'un analyste de données (créati
    docker cp retail_sales.csv sql1:/tmp/retail_sales.csv
    ```
 3. **Exécuter** `retail_sales_analysis.sql` dans l'ordre : chaque requête est commentée et indique le résultat attendu.
-
-## Auteur
-
-**[Ton nom]** — Business / Data Analyst freelance (finance et risque)
-[LinkedIn](https://www.linkedin.com/in/ton-profil) · [Email](mailto:ton.email@exemple.com)
